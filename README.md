@@ -69,7 +69,6 @@ Technologies Used
 Author
 ------
 Michel Brochu
-GitHub: https://github.com/BroM1tch
 
 
 License
